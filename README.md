@@ -3,8 +3,9 @@ End-to-end hotel data analytics project using Excel, SQL, Python and Power BI to
 # Hotel Intelligence Project
 
 ## Project Files
-- Excel File: [Download here](paste Google Drive link)
-- Power BI Dashboard: [Download here](paste Google Drive link)
+- Excel File: [Download here](https://drive.google.com/file/d/1EtW11lGxObJE7gU5AVP7HDyL0jP9QQKw/view?usp=drive_link
+)
+- Power BI Dashboard: [Download here](https://drive.google.com/file/d/1ApCAkkhQYy2eMIA_0ml15TOMkG6r1onj/view?usp=drive_link)
 - SQL Queries: hotel_queries.sql
 - Python Analysis: hotel_analysis.py
 
