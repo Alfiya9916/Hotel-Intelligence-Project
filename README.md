@@ -39,4 +39,5 @@ Self-taught Excel, SQL, Python and Power BI in 5 months.
 Open to Remote Data Analyst roles.
 
 📧 alfiyasultana18@gmail.com
-🔗 linkedin.com/in/alfiya-sultana-99r16
+🔗 www.linkedin.com/in/alfiya-sultana-99r16Vanity URL name
+
